@@ -10,7 +10,7 @@ namespace SampleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I am vinodMetta  Just checking the Git Command  revet command         ");
+            Console.WriteLine("I am vinodMetta  Just checking the Git Command  revet comm ");
             Console.ReadKey();
         }
     }
